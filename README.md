@@ -21,4 +21,4 @@ Python, TypeScript, Go, FastAPI, Clay, n8n, MCP, Ollama, Smartlead, HubSpot, Lin
 
 ## Now
 
-GTM / FDE work at Unkapped. Hireable for FDE or AI GTM engineering roles.
+GTM / FDE work at Stealth. Hireable for FDE or AI GTM engineering roles.
