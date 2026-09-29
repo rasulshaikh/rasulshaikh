@@ -6,12 +6,12 @@ Most of my public work is Python / TypeScript / Go around enrichment, lists, ema
 
 ## Work worth opening
 
-- [lumen-fde](https://github.com/rasulshaikh/lumen-fde) - FDE command center (plan, curriculum, Ask, MCP). Live: https://rasul-senior-fde-dashboard.vercel.app
-- [dokeo](https://github.com/rasulshaikh/dokeo) - pre-publish content quality gate (MCP + FastAPI + CLI). https://dokeo.co
+- [lumen-fde](https://github.com/rasulshaikh/lumen-fde) - FDE command center (plan, curriculum, Ask, MCP). Live: https://lumen-fde.vercel.app
+- [dokeo](https://dokeo.co) - pre-publish content quality gate (MCP + FastAPI + CLI). Source private; product site: https://dokeo.co
 - [gtm-founder-led-loop](https://github.com/rasulshaikh/gtm-founder-led-loop) - signals → ICP score → tier routing → warm outbound
 - [listicle-pipeline](https://github.com/rasulshaikh/listicle-pipeline) - grounded listicle generation with human gates and fact QA
 - [baseten-content-application](https://github.com/rasulshaikh/baseten-content-application) - PASS/FLAG/FAIL gate for LLM serving content
-- [xeme-os](https://github.com/rasulshaikh/xeme-os) - self-hosted GTM OS experiment in Go (lab / WIP; treat claims as product direction, not production proof)
+- xeme-os - self-hosted GTM OS experiment in Go (private lab / WIP; treat claims as product direction, not production proof)
 
 Other small GTM plays live under `gtm-*` (Clay formulas, deliverability, cadences, list scorecards).
 
