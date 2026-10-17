@@ -6,7 +6,7 @@ Most of my public work is Python / TypeScript / Go around enrichment, lists, ema
 
 ## Work worth opening
 
-- [lumen-fde](https://github.com/rasulshaikh/lumen-fde) - FDE command center (plan, curriculum, Ask, MCP). Live: https://lumen-fde.vercel.app
+- [lumen-fde](https://github.com/rasulshaikh/lumen-fde) - FDE command center (plan, curriculum, Ask, MCP). Live: https://lumenlab.tech
 - [fde-desk](https://github.com/rasulshaikh/fde-desk) - Forward-Deployed Engineer desk for Claude Code: Clay, signals, and customer-scoped GTM builds as git-tracked skills and agents
 - [outbound-skill-pack](https://github.com/rasulshaikh/outbound-skill-pack) - open outbound GTM skills for Clay + sequencers: research, purple-safety, kickoff
 - [sending-gate](https://github.com/rasulshaikh/sending-gate) - pre-send quality gate for Clay outbound: PASS/FLAG/FAIL before Smartlead or HeyReach push
