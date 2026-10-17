@@ -1,6 +1,6 @@
 # Rasul Shaikh
 
-Senior Forward Deployed Engineer. I build and install GTM systems teams actually run: Clay outbound, scoring and routing, content quality gates, and agent workflows.
+Founding Forward Deployed Engineer. I build and install GTM systems teams actually run: Clay outbound, scoring and routing, content quality gates, and agent workflows.
 
 Most of my public work is Python / TypeScript / Go around enrichment, lists, email, and pre-publish QA.
 
